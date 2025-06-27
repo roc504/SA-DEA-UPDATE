@@ -1,5 +1,5 @@
 Data Openness Statement
-This repository contains processed visualization matrix files and the corresponding algorithm code related to the work described in [Paper Title]. To support scientific research and academic exchange, we follow the [Chosen License Name, e.g., CC-BY 4.0 or CC0 1.0] open data policy, allowing other researchers to further explore and build upon our work.
+This repository contains processed visualization matrix files and the corresponding algorithm code related to the work described in [Paper Title]. To support scientific research and academic exchange, we follow the CC-BY 4.0 open data policy, allowing other researchers to further explore and build upon our work.
 Data License:
 The data and code in this repository are licensed under CC-BY 4.0 / CC0 1.0. This means you can:
 Share: Copy and redistribute the materials in any medium and format.
